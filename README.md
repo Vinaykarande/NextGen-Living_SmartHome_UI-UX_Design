@@ -18,7 +18,9 @@ Fan: Control the speed.
 Lights & Bulbs: Adjust brightness and change colours.
 
 Design Approach
+
 Tool Used: Figma
+
 Design Philosophy: The design emphasizes usability and aesthetics, ensuring that users can control their home appliances effortlessly.
 Multiple Design Options: Explored various design layouts and elements for the appliance listing screen to ensure the best user experience.
 
