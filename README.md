@@ -22,7 +22,6 @@ Design Approach
 Tool Used: Figma
 
 Design Philosophy: The design emphasizes usability and aesthetics, ensuring that users can control their home appliances effortlessly.
-Multiple Design Options: Explored various design layouts and elements for the appliance listing screen to ensure the best user experience.
 
 Screenshots
 ![roxiler-submission](https://github.com/user-attachments/assets/3fef0967-0e54-4090-894e-e49aa4ede69b)
