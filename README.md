@@ -1,20 +1,22 @@
 # Home Appliance Control Mobile App - UI/UX Design
 UI/UX solution for mobile application to control the home appliance
 
-Project Overview
+Project Overview: 
 This project involves designing a UI/UX solution for a mobile application that allows users to control various home appliances such as Fans, Air Conditioners, TVs, Lights, and Bulbs. The design focuses on providing a seamless user experience with a clean and appealing interface.
 
-Features
+Features:
 Appliance Listing Screen:
 
 A centralized screen that lists all types of appliances.
 Users can control appliances directly from the listing screen.
+
 Appliance Control Operations:
 
 ON/OFF Control: Easily turn appliances on or off.
 Air Conditioner: Adjust the temperature.
 Fan: Control the speed.
 Lights & Bulbs: Adjust brightness and change colours.
+
 Design Approach
 Tool Used: Figma
 Design Philosophy: The design emphasizes usability and aesthetics, ensuring that users can control their home appliances effortlessly.
