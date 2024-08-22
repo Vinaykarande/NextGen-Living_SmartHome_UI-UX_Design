@@ -40,4 +40,4 @@ Screenshots
 
 How to View the Design
 You can view the design prototype on Figma by following this link:
-https://www.figma.com/design/MUhoUsDvhCikCKDJAPluLv/roxiler-submission?node-id=0-1&t=lvaYr7Sv0tddSxod-1
+https://www.figma.com/design/MUhoUsDvhCikCKDJAPluLv/NextGen-Living?node-id=0-1&t=S9jDf8kOQqeIlbXD-1
