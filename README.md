@@ -23,15 +23,15 @@ Tool Used: Figma
 
 Design Philosophy: The design emphasizes usability and aesthetics, ensuring that users can control their home appliances effortlessly.
 
-Screenshots
-![roxiler-submission](https://github.com/user-attachments/assets/3fef0967-0e54-4090-894e-e49aa4ede69b)
-![roxiler-submission(1)](https://github.com/user-attachments/assets/4f414126-a43c-4939-9fb0-79e597c05cb9)
-![roxiler-submission(2)](https://github.com/user-attachments/assets/05abec23-aee5-4b70-8093-45dc41c2d487)
-![roxiler-submission(3)](https://github.com/user-attachments/assets/280dd2fd-faa6-4625-8ab3-4304e5908cb5)
-![roxiler-submission(4)](https://github.com/user-attachments/assets/3ef4c38e-adad-4b21-91a4-f9d2db180952)
-![roxiler-submission(5)](https://github.com/user-attachments/assets/da90db21-fe6e-4390-8da1-c4b7ef1fd9f1)
-![roxiler-submission(6)](https://github.com/user-attachments/assets/002e8707-0b3e-4386-89a6-d46eabbd35a1)
+Screenshots:
 
+![Living room apps](https://github.com/user-attachments/assets/4be55958-599c-488e-870a-46a03cfc232c)
+![Kitchen Apps](https://github.com/user-attachments/assets/c509a764-15c2-4bab-969b-e8b5af8a60b5)
+![Bedroom Apps](https://github.com/user-attachments/assets/11d440b3-ca8d-45fd-a100-20b18fd8a2e7)
+![Bathroom apps](https://github.com/user-attachments/assets/16cf1b4d-9ea4-4c52-abf2-d0aded1ccfb5)
+![Air Conditioner](https://github.com/user-attachments/assets/07f35525-b93b-44b4-899e-80204bfb9051)
+![Smart Light](https://github.com/user-attachments/assets/b2160817-4b0e-421c-a610-4780b50d3e38)
+![Smart Fan](https://github.com/user-attachments/assets/8c485e87-0a51-4240-a1cc-2da978330feb)
 
 
 
